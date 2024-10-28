@@ -10,7 +10,7 @@ Because they wanted to:
 
 ✨ Draw a new career path 🎨
 ✨ Code their way to eternal youth 💻
-✨ 'reboot' 💻 their career
+✨ 'reboot' their career 💻
 🎬 'animate' their future
 🎬 AIWAYS stay ahead of the curve! 🤖
 🤖 'machine-learn' to walk faster
