@@ -12,12 +12,10 @@ Because they wanted to:
 ✨ Code their way to eternal youth 💻
 ✨ 'reboot' 💻 their career
 🎬 'animate' their future
+🎬 AIWAYS stay ahead of the curve! 🤖
 🤖 'machine-learn' to walk faster
 🏃‍♂️ to keep up with the younger devs!
 😂 Now, that's what we call a:
 🚨 'Midlife Pixel Crisis'! 💥
-🎬 AIWAYS stay ahead of the curve! 🤖
-
-Now, that's what we call a 'midlife masterPIECE' crisis! 🎉😂
 
 #MidlifePixelCrisis #CodingSenior #RebootingCareer #AnimationNation #AIFever
