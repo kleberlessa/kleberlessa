@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Design 
 - 📫 How to reach me kleberlessa@duck.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 👴 Why did the 54-year-old animation design, web development, and AI enthusiast bring a walker to the coding bootcamp? 🤔
+- ⚡ Fun fact: 👴 Why did the 54-year-old designer, art director, web development, and AI enthusiast bring a walker to the coding bootcamp? 🤔
 
 Because they wanted to:
 
