@@ -60,6 +60,6 @@ Join me as I navigate through the exciting world of coding, where I'm learning t
 
 <a href="https://youtu.be/wlww8VOT3Sg
 " target="_blank"><img src="/src/cover-sorte-grande.jpg" 
-alt="IMAGE ALT TEXT HERE" width="343" height="193" border="10" /></a>
+alt="Miniature of Inkscape of the character Calixto looking suspicious" width="343" height="193" border="10" /></a>
 
 [<img src="./cover-sorte-grande.gif" alt="gif da tela inicial do Vídeo Speed Art">](https://youtu.be/wlww8VOT3Sg)
