@@ -21,10 +21,12 @@ Because they wanted to:
 🚨 'Midlife Pixel Crisis'! 💥
 
 #MidlifePixelCrisis #CodingSenior #RebootingCareer #AnimationNation #AIFever
+---
 
 Welcome to my personal playground of creativity and code! 🎨💻 I'm @kleberlessa, a passionate designer and aspiring web developer on a journey to blend art with technology. Here, you'll find some collection of my projects that showcase my interests in design, web development, animation, and AI.
 
 Join me as I navigate through the exciting world of coding, where I'm learning to animate my ideas and bring them to life! Whether you're here to collaborate, learn, or just explore, I hope you enjoy the ride. Don't forget to check out my YouTube channel for some fun speed art videos and character designs! Let's connect and create something amazing together! 🚀✨
+---
 
 <div>
    <a href="https://github.com/kleberlessa">
