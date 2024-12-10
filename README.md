@@ -58,6 +58,8 @@ Join me as I navigate through the exciting world of coding, where I'm learning t
 
 ##### Vector Art | Character Design | Calixto | Speed Art
 
+**Experimenting with digital vector painting using Inkscape, with a Bamboo graphics tablet, from this character design created for a comic book that was developed and published in an anthology, along with six other authors, through the "Alagoas em Sequencial" call for proposals published in October 2012, at the Book Biennial in Maceió, Alagoas, Brazil. The original drawing was made on a Kanvus A4 graphics tablet. The resolution was pixelated. However, the final result was interesting. Recently, I took the SVG file and imported it into Inkscape, and things got even more interesting!**
+
 <a href="https://youtu.be/wlww8VOT3Sg
 " target="_blank"><img src="/src/cover-sorte-grande.jpg" 
 alt="Miniature of Inkscape of the character Calixto looking suspicious" width="343" height="193" border="10" /></a>
