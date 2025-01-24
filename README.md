@@ -1,7 +1,7 @@
 ## Welcome to My Code Playground: Enter at Your Own Risk!
 
 - 👋 Hi, I’m @kleberlessa
-- 👀 I’m interested in Design | Web Development | Ilustrations | Audiovisual | AI
+- 👀 I’m interested in Design | Web Development | Illustrations | Audiovisual | AI
 - 🌱 I’m currently learning Web Development | Animation Design
 - 💞️ I’m looking to collaborate on Design 
 - 📫 How to reach me kleberlessa@duck.com
