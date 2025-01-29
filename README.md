@@ -59,7 +59,7 @@ Join me as I navigate through the exciting world of coding, where I'm learning t
 
 ---
 
-## Check Out My YouTube Videos! :yt:
+## Check Out My YouTube Videos! ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 ### Speed Art: Character Design in Inkscape
 <a href="https://youtu.be/wlww8VOT3Sg" target="_blank"><img src="/src/cover-sorte-grande.jpg" alt="Miniature of Inkscape of the character Calixto looking suspicious" width="343" height="193" border="10" /></a>
