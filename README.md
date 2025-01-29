@@ -59,7 +59,9 @@ Join me as I navigate through the exciting world of coding, where I'm learning t
 
 ---
 
-## Check Out My YouTube Videos! ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+## Check Out My YouTube Videos! 
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
 [Visit my YouTube Channel](https://youtube.com/@kleber-lessa?si=KybrGb6GFSSAv6kY)
 
 ### Speed Art: Character Design in Inkscape
