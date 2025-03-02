@@ -61,11 +61,6 @@ Join me as I navigate through the exciting world of coding, where I'm learning t
 
 ## Check Out My YouTube Videos! 
 
-### Speed Art: Character Design in Inkscape
-<a href="https://youtu.be/wlww8VOT3Sg" target="_blank"><img src="/src/cover-sorte-grande.jpg" alt="Miniature of Inkscape of the character Calixto looking suspicious" width="343" height="193" border="10" /></a>
-
-### Digital Vector Painting: Calixto
-<a href="https://youtu.be/wlww8VOT3Sg" target="_blank"><img src="/src/cover-sorte-grande.jpg" alt="Miniature of Inkscape of the character Calixto looking suspicious" width="343" height="193" border="10" /></a>
 
 ##### Vector Art | Character Design | Calixto | Speed Art
 
